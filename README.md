@@ -1,9 +1,14 @@
 # Decorator-Pattern
 ## Tugas-1 Arsitektur Perangkat Lunak(APL)
 
-jalankan program java StarbuzzCoffee yang ada didalam folder src dengan cara
+Compile program java StarbuzzCoffee yang ada didalam folder src/starbuzz dengan cara
 ```
 $ javac StarbuzzCoffee.java
+```
+
+Lalu jalankan hasil compilasi dengan cara, seperti gambar dibawah
+```
+$ java StarbuzzCoffee
 ```
 
 Output:
