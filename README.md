@@ -1,5 +1,7 @@
 # Decorator-Pattern
 ## Tugas-1 Arsitektur Perangkat Lunak(APL)
+Nama : M Khairul Ramadhan
+NIM : 1708107010006
 
 Compile program java StarbuzzCoffee yang ada didalam folder Decorator/src/starbuzz dengan cara
 ```
